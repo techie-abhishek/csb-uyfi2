@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://techie-abhishek.github.io/csb-uyfi2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://techie-abhishek.github.io/csb-uyfi2/static/js/main.fdcb6fb2.chunk.js",
+    "main.js.map": "https://techie-abhishek.github.io/csb-uyfi2/static/js/main.fdcb6fb2.chunk.js.map",
+    "runtime-main.js": "https://techie-abhishek.github.io/csb-uyfi2/static/js/runtime-main.4aeb68a4.js",
+    "runtime-main.js.map": "https://techie-abhishek.github.io/csb-uyfi2/static/js/runtime-main.4aeb68a4.js.map",
+    "static/js/2.2350909c.chunk.js": "https://techie-abhishek.github.io/csb-uyfi2/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://techie-abhishek.github.io/csb-uyfi2/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://techie-abhishek.github.io/csb-uyfi2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://techie-abhishek.github.io/csb-uyfi2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://techie-abhishek.github.io/csb-uyfi2/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aeb68a4.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fdcb6fb2.chunk.js"
+  ]
+}
